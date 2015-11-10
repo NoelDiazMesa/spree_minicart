@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   s.requirements << 'none'
 
   # doesn't work with rails 4.1.10
-  s.add_dependency 'rails', '4.1.9'
+  s.add_dependency 'rails', '4.1.11'
 
   s.add_dependency 'sprockets', '~> 2.12'
   s.add_dependency 'spree_core', '~> 2.4'
